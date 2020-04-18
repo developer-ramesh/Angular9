@@ -13,9 +13,8 @@ In this example i have demonstrated the form validation using template-driven or
 ##### 4. Lazy load
 
 ##### 5. Material 
-         - SnackBar
-         - MatDialog
-   
+- SnackBar
+- MatDialog   
 ##### 6. Template-driven Form validation example
 
 ##### 7. Reactive Form validation example
