@@ -2,28 +2,28 @@
 
 In this example i have demonstrated the form validation using template-driven or reactive.
 
-# Features
+## Features
 
-Simple Login and social login FB, GMail
+1. Simple Login and social login FB, GMail
 
-Registration
+2. Registration
 
-Profile
+3. Profile
 
-Lazy load
+4. Lazy load
 
-Material 
-   SnackBar
-   MatDialog
+5. Material 
+    - SnackBar
+    - MatDialog
    
-Template-driven Form validation example
+6. Template-driven Form validation example
 
-Reactive Form validation example
+7. Reactive Form validation example
 
-Header and Footer
+8. Header and Footer
 
 
-# Build & Run
+## Build & Run
 
 Run npm install to install packages
 
