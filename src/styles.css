@@ -1,0 +1,10 @@
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.snack-error{
+    background-color: rgb(153, 50, 50);
+ }
+
+ .snack-success{
+    background-color:rgb(100, 166, 98);
+ }
